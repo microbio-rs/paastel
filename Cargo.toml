@@ -35,7 +35,7 @@ unimplemented = "warn"
 serde             = { version = "1.0.197", features = ["derive"] }
 tracing           = "0.1.40"
 mockall           = "0.12.1"
-async-trait       = "0.1.79"
+async-trait       = "0.1.80"
 anyhow            = "1.0.81"
 thiserror         = "1.0.58"
 uuid              = "1.7.0"
