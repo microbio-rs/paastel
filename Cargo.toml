@@ -32,7 +32,7 @@ unimplemented = "warn"
 # print_stdout  = "warn"
 
 [workspace.dependencies]
-serde             = { version = "1.0.197", features = ["derive"] }
+serde             = { version = "1.0.203", features = ["derive"] }
 tracing           = "0.1.40"
 mockall           = "0.12.1"
 async-trait       = "0.1.79"
