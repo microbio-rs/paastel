@@ -19,7 +19,7 @@ kube                  = { version = "0.90.0", features = ["runtime", "derive"] }
 paastel_auth          = { version = "0.1.0", path = "../paastel_auth" }
 schemars              = "0.8.16"
 serde                 = { workspace = true, features = ["derive"] }
-serde_json            = "1.0.114"
+serde_json            = "1.0.119"
 serde_yaml            = "0.9.33"
 thiserror.workspace   = true
 tokio                 = { version = "1.36.0", features = ["time"] }
